@@ -1,7 +1,7 @@
 ![logo](banner.png)
 <h1 align="center">Hi 👋, I'm Nisma Kauser</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/BwmqUoFsbQpG6amp6">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NismaK &label=Profile%20views&color=0e75b6&style=flat" alt="NismaK" /> </p>
 
