@@ -47,6 +47,6 @@
 
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://api.badgr.io/public/assertions/e2MhmZsjQeSjYi81gx2H2A?identity__email=nismakauser%40gmail.com" width="100px" height="100px" />
+<img src="https://media.badgr.com/assertion-1c0f4686b3dd6d66115b893795112f74.png" width="100px" height="100px" />
 </div>
 
