@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Nisma Kauser</h1>
 <h3 align="center">An Aspiring AI/ML Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=NismaK&label=Profile%20views&color=0e75b6&style=flat-square" alt="NismaK"> </p>
 
-# 💫 About Me
 
-🔭 I’m currently Studying Computer Science Engineering From Integral University Lucknow<br><br>🌱 I’m currently advancing my knowledge in Machine Learning and AI<br><br>🤝 I’m looking for help with Full Stack web development<br><br>💬 Ask me about Python,SQL,HTML,Scikit-Learn<br>
+<h3>💫 About Me </h3>
+
+🔭 I’m currently Final Year Computer Science Engineering student From Integral University Lucknow<br><br>🌱 I’m currently advancing my knowledge in Machine Learning and AI<br><br>🤝 I’m looking for help with Full Stack web development<br><br>💬 Ask me about Python,SQL,HTML,Scikit-Learn<br>
 
 
-## 🌐 Socials
+<h3>🌐 Socials </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisma-kauser-b76b09316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nismakauser@gmail.com) 
 
