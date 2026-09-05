@@ -100,8 +100,13 @@ I enjoy building prediction apps, recommendation systems, dashboards, collaborat
 
 <div align="center">
 
-<a href="https://github.com/NismaK"><img src="https://github-readme-stats.vercel.app/api?username=NismaK&show_icons=true&hide_border=true&bg_color=102A2A&title_color=D6B36A&text_color=F4EFE3&icon_color=8FC0A9&rank_icon=github" width="48%" alt="Nisma Kauser's GitHub statistics" /></a>
-<a href="https://github.com/NismaK"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NismaK&layout=compact&hide_border=true&bg_color=102A2A&title_color=D6B36A&text_color=F4EFE3" width="42%" alt="Nisma Kauser's top languages" /></a>
+<a href="https://github.com/NismaK">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=NismaK&show_icons=true&hide_border=true&bg_color=102A2A&title_color=D6B36A&text_color=F4EFE3&icon_color=8FC0A9&rank_icon=github" width="48%" alt="Nisma Kauser's GitHub statistics" />
+</a>
+
+<a href="https://github.com/NismaK">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=NismaK&layout=compact&hide_border=true&bg_color=102A2A&title_color=D6B36A&text_color=F4EFE3&langs_count=8" width="42%" alt="Nisma Kauser's top languages" />
+</a>
 
 <br />
 
