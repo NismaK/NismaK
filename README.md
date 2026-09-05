@@ -86,8 +86,6 @@ I enjoy building prediction apps, recommendation systems, dashboards, collaborat
 |:--|:--|
 | [**15 Days of Python**](https://github.com/NismaK/15daysofpython) | Building Python fundamentals through consistent practice. |
 | [**75 Days of LeetCode**](https://github.com/NismaK/75DaysLeetCodeChallenge) | Strengthening algorithms, data structures, and problem-solving. |
-| [**TaskFlow**](https://github.com/NismaK/taskflow) | Exploring simple tools for organized productivity. |
-| [**Streamlit Dashboard**](https://github.com/NismaK/Dashboard_using_streamlit) | Turning data into accessible visual experiences. |
 
 <div align="center">
 
@@ -119,7 +117,6 @@ I enjoy building prediction apps, recommendation systems, dashboards, collaborat
 focus:
   - Production-ready Python applications
   - Practical machine learning and AI systems
-  - React and Node.js full-stack development
   - Data visualization and analytical storytelling
   - Algorithms, data structures, and problem solving
 
@@ -159,8 +156,4 @@ Profile README setup:
 2. Upload this file as README.md.
 3. Upload the complete assets folder beside it.
 4. Keep the relative paths beginning with ./assets/ unchanged.
-
-The visual direction is Islamic-inspired and uses original geometric artwork.
-The English verse excerpts are short attributed translations; visit the Quran.com
-references above for the full context and translation details.
 -->
