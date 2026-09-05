@@ -84,12 +84,7 @@ I enjoy building prediction apps, recommendation systems, dashboards, collaborat
 | [**15 Days of Python**](https://github.com/NismaK/15daysofpython) | Building Python fundamentals through consistent practice. |
 | [**75 Days of LeetCode**](https://github.com/NismaK/75DaysLeetCodeChallenge) | Strengthening algorithms, data structures, and problem-solving. |
 
-<div align="center">
 
-> **“Allah does not require of any soul more than what it can afford.”**  
-> *Qur’an — Surah Al-Baqarah 2:286*
-
-</div>
 
 ---
 
