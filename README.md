@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/nisma-islamic-developer-hero.png" alt="Nisma Kauser working at a computer in an Islamic-inspired study" width="100%" />
-
 <br />
 
 # ✦ Nisma Kauser ✦
@@ -20,7 +18,6 @@
 
 <div align="center">
 
-<img src="./assets/islamic-geometric-divider.png" alt="Emerald and gold geometric divider" width="82%" />
 
 </div>
 
@@ -150,15 +147,3 @@ I am open to meaningful projects, thoughtful collaborations, and conversations a
 
 ---
 
-## References
-
-[1]: https://quran.com/ash-sharh/5-6 "Quran.com — Surah Ash-Sharh 94:5–6"
-[2]: https://quran.com/al-baqarah/286 "Quran.com — Surah Al-Baqarah 2:286"
-
-<!--
-Profile README setup:
-1. Create a public repository named exactly NismaK.
-2. Upload this file as README.md.
-3. Upload the complete assets folder beside it.
-4. Keep the relative paths beginning with ./assets/ unchanged.
--->
