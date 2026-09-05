@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✦ NISMA K ✦
+# ✦ NISMA KAUSER ✦
 
-### `Pythonista` · `AI/ML Explorer` · `Full-Stack Builder` · `Data Storyteller`
+### `Pythonista` · `AI/ML Explorer` · `Data Storyteller`
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=900&color=D8B56A&center=true&vCenter=true&width=720&lines=Turning+curiosity+into+working+software;Building+with+Python%2C+AI%2C+and+data;Every+project+starts+with+a+little+magic" alt="Typing introduction" />
 
