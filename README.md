@@ -23,7 +23,7 @@
 
 ## ✦ About me
 
-I am **Nisma Kauser**, a developer who enjoys turning ideas into useful digital experiences. My work spans **Python, machine learning, data analytics, React, Node.js, Streamlit, Dart, and API-powered applications**.
+I am **Nisma Kauser**, a developer who enjoys turning ideas into useful digital experiences. My work spans **Python, machine learning, data analytics,Streamlit and AI-powered applications**.
 
 I enjoy building prediction apps, recommendation systems, dashboards, collaborative tools, voice assistants, and analytical projects. My approach is simple: learn deeply, build consistently, and make every project clearer than the idea I started with.
 
